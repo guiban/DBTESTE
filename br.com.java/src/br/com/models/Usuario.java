@@ -1,3 +1,5 @@
+//Classe básica
+
 package br.com.models;
 
 public class Usuario {
